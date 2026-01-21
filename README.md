@@ -10,8 +10,8 @@ A modular, on-chain governance system inspired by Compound and Aave. This DAO fe
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/
-cd dao
+git clone https://github.com/sai1432-ss/DOA
+cd DOA
 
 ```
 
